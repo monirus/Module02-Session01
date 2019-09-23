@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Macro.Second try">
+    <keyboard-shortcut first-keystroke="semicolon" />
+  </action>
+</keymap>

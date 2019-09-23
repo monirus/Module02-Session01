@@ -1,0 +1,17 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="First try">
+      <typing text-keycode="59:1">:</typing>
+      <action id="ReformatCode" />
+      <action id="EditorBackSpace" />
+    </macro>
+    <macro name="Second try">
+      <typing text-keycode="59:0">;</typing>
+      <action id="ReformatCode" />
+    </macro>
+    <macro name="Third attempt">
+      <action id="EditorEnter" />
+      <typing text-keycode="32:0">&amp;#x20;</typing>
+    </macro>
+  </component>
+</application>
